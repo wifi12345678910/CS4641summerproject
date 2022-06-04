@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <body>
     <h1> CS 4641 Group Project </h1>
